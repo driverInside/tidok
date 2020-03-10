@@ -1,0 +1,24 @@
+{
+  "name": "tidok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driverInside/tidok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/driverInside/tidok/issues"
+  },
+  "homepage": "https://github.com/driverInside/tidok#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "standard": "^14.3.1"
+  }
+}
